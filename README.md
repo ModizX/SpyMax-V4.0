@@ -69,7 +69,7 @@
 
 ## Disclaimer
 <b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-DroidSpy is built for both Educational and Internal use ONLY.</b>
+SpyMax is built for both Educational and Internal use ONLY.</b>
 
 <br>
 
