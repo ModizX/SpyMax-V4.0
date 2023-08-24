@@ -72,7 +72,6 @@
 DroidSpy is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Re-Edit with ❤️ By <a href="https://shop-linuxndroid.in">Linuxndroid</a></p>
 
 
 ## Credits
